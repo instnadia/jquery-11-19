@@ -1,0 +1,30 @@
+2 ways of running the code:
+
+1. write it inside the body, in a <script> tag, or  outter js file where the script src is in the body.
+
+jQuery is "write less, do more", JavaScript library.
+
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+
+The jQuery library contains the following features:
+
+    HTML/DOM manipulation (DOM = Document Object Model)
+    CSS manipulation
+    HTML event methods
+    Effects and animations
+    AJAX
+    Utilities
+
+The jQuery syntax is tailor-made for selecting HTML elements and performing some action on the element(s).
+
+Basic syntax is: $(selector).action()
+
+    A $ sign to define/access jQuery
+    A (selector) to "query (or find)" HTML elements
+    A jQuery action() to be performed on the element(s)
+
+<EVENTS ARE IN THE IMAGE>
